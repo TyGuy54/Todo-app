@@ -1,0 +1,22 @@
+.to-center {
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border: 5px solid;
+    width: 600px;
+    height: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+
+.align-text{
+    text-align: center
+}
+
+.align-input{
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
